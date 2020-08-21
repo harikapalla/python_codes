@@ -1,4 +1,4 @@
-# python_string_problems_codes
+# string_problems_codes_in_python
 
 This folder contains string problems codes solved in python.
 
